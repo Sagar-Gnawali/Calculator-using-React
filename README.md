@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Calculator_using_React
+This is the basic calculator in which i used React library.It contains class component and some basic javascript function.
+
 ## Available Scripts
 
 In the project directory, you can run:
