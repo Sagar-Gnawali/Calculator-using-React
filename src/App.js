@@ -1,7 +1,6 @@
 import React , { Component } from 'react';
 import './App.css';
 import Btns from './components/button';
-// import Show from './components/show';
 class App extends Component {
   
   state={
@@ -46,7 +45,6 @@ class App extends Component {
     render() {
      return(
     <div className="App">
-     {/* <Show result={this.state.result}/> */}
      <Btns clickbutton={this.clickbutton}  result={this.state.result}/>   
     </div>
   );
